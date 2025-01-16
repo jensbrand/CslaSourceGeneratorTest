@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Csla" Version="9.0.0-rc3-g44c5640a07" />
+      <PackageReference Include="Csla.Generator.AutoImplementProperties.CSharp" Version="9.0.0-rc3-g44c5640a07" />
+    </ItemGroup>
+
+</Project>
