@@ -11,5 +11,4 @@
       <PackageReference Include="Csla" Version="9.0.0-rc3-g44c5640a07" />
       <PackageReference Include="Csla.Generator.AutoImplementProperties.CSharp" Version="9.0.0-rc3-g44c5640a07" />
     </ItemGroup>
-
 </Project>
